@@ -1,3 +1,8 @@
+# concact
+```
+radusbriciu@proton.me
+```
+
 # recurisve command line tools
 recursive git status powershell
 ```powershell
