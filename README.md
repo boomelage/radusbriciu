@@ -18,7 +18,22 @@ recursive git status bash
 ```bash
 find . -type d -name ".git" -execdir sh -c 'echo "Directory: $(pwd)"; git status; echo ""' \;
 ```
+recursive pip install .sh
+```bash
+#!/bin/bash
 
+# Loop through each subdirectory
+for dir in */; do
+    # Check if setup.py or pyproject.toml exists in the subdirectory
+    if [[ -f "${dir}setup.py" || -f "${dir}pyproject.toml" ]]; then
+        echo "Installing package in $dir"
+        # Change to the directory, install, and then return to the original directory
+        (cd "$dir" && pip install .)
+    else
+        echo "No installable package found in $dir"
+    fi
+done
+```
 # windows power plans
 balanced
 ```shell
