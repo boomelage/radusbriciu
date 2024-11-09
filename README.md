@@ -1,4 +1,4 @@
-# concact
+# contact
 ```
 radusbriciu@proton.me
 ```
