@@ -25,11 +25,12 @@ Get-ChildItem -Directory | ForEach-Object {
 }
 ```
 
-```
+
 recursive git status bash
 ```bash
 find . -type d -name ".git" -execdir sh -c 'echo "Directory: $(pwd)"; git status; echo ""' \;
 ```
+
 recursive pip install .sh
 ```bash
 #!/bin/bash
