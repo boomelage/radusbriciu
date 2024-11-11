@@ -14,6 +14,18 @@ Get-ChildItem -Directory -Recurse | ForEach-Object {
     }
 }
 ```
+recursive pip install powershell
+```powershell
+Get-ChildItem -Directory | ForEach-Object {
+    if ((Test-Path "$($_.FullName)\setup.py") -or (Test-Path "$($_.FullName)\pyproject.toml")) {
+        Push-Location $_.FullName
+        pip install .
+        Pop-Location
+    }
+}
+```
+
+```
 recursive git status bash
 ```bash
 find . -type d -name ".git" -execdir sh -c 'echo "Directory: $(pwd)"; git status; echo ""' \;
