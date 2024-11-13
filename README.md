@@ -56,3 +56,7 @@ ultimate performance
 ```shell
 powercfg /setactive e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
+# pandoc md to pdf
+```
+pandoc README.md --pdf-engine=xelatex -o test.pdf
+```
