@@ -1,6 +1,6 @@
 # contact
 ```
-radusbriciu@proton.me
+rsbrc@pm.me
 ```
 
 # recurisve command line tools
