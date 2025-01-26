@@ -1,3 +1,24 @@
+## About Me
+
+<img src="https://photos.mendeley.com/69/ba/69bad913fd3d075f0b5ec050d29942c25c5ca4db-p128x128.jpg" alt="Radu Briciu" width="128" height="128" align="left" />
+
+
+Hi, I'm **Radu Briciu**, a postgraduate student in **Quantitativew** at Bayes Business School, City, University of London. <br>
+
+I am passionate about research and innovation in computational finance, currently looking to collaborate in topics around securities pricing, financial econometrics, and behavioural finance.
+
+<br>
+- 📫 Email: [radu.briciu@bayes.city.ac.uk](mailto:radu.briciu@bayes.city.ac.uk)
+
+---
+
+## Academic Interests
+
+- **Primary Discipline:** Economics, Econometrics and Finance
+- **Focus Areas:** Financial modelling, quantitative methods, and econometric analysis
+
+
+
 # recurisve command line tools
 recursive git status powershell
 ```powershell
