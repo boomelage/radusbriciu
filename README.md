@@ -7,10 +7,10 @@ Hi, I'm **Radu Briciu**, a postgraduate student in **Quantitative Finance** at B
 
 I am passionate about research and innovation in computational finance, currently looking to collaborate in topics around securities pricing, financial econometrics, and behavioural finance.
 
-<br>
-[![Email](https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/City%2C_University_of_London_coat_of_arms.png/200px-City%2C_University_of_London_coat_of_arms.png)](mailto:radu.briciu@bayes.city.ac.uk)
-
----
+<br> <br>
+Email: <a href="mailto:radu.briciu@bayes.city.ac.uk">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Arms_of_City%2C_University_of_London.svg" alt="City, University of London" width="20" align="top"/>
+</a>
 
 ## Academic Interests
 
