@@ -5,7 +5,7 @@
 
 Hi, I'm **Radu Briciu**, a postgraduate student in **Quantitative Finance** at Bayes Business School, City, University of London. <br>
 
-I am passionate about computational methods in finance, currently looking to collaborate in research around topics in analytical securities pricing, financial econometrics, and behavioural finance. <br>
+I am passionate about computational methods in finance, currently seeking collaborative research around topics in analytical securities pricing, financial econometrics, and behavioural finance. <br>
 
 Email me:  <a href="mailto:radu.briciu@bayes.city.ac.uk">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Arms_of_City%2C_University_of_London.svg" alt="City, University of London" width="20" align="top"/>
