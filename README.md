@@ -11,6 +11,9 @@ Email me:  <a href="mailto:radu.briciu@bayes.city.ac.uk">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Arms_of_City%2C_University_of_London.svg" alt="City, University of London" width="20" align="top"/>
 </a>
 
+
+<a href="https://www.buymeacoffee.com/ndvgphpyqj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Academic Interests
 
 - **Primary Discipline:** Economics, Econometrics and Finance
