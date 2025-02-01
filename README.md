@@ -12,7 +12,6 @@ Email me:  <a href="mailto:radu.briciu@bayes.city.ac.uk">
 </a>
 
 
-<a href="https://www.buymeacoffee.com/ndvgphpyqj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Academic Interests
 
@@ -65,4 +64,7 @@ for dir in */; do
     fi
 done
 ```
+
+If you find anything of value within my repositories, a tip is always appreciated! <br>
+<a href="https://www.buymeacoffee.com/ndvgphpyqj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
