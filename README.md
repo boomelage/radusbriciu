@@ -47,5 +47,4 @@ for dir in */; do
     else
 ```
 © Radu-Ștefan Briciu
-```
 
