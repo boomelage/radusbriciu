@@ -45,7 +45,7 @@ for dir in */; do
         # Change to the directory, install, and then return to the original directory
         (cd "$dir" && pip install .)
     else
-
+```
 © Radu-Ștefan Briciu
         echo "No installable package found in $dir"
     fi
