@@ -47,8 +47,5 @@ for dir in */; do
     else
 ```
 © Radu-Ștefan Briciu
-        echo "No installable package found in $dir"
-    fi
-done
 ```
 
